@@ -1,3 +1,6 @@
+pod lib create xxxx --template-url=https://github.com/loveFromLeo/pod-template.git
+
+
 pod-template
 ============
 
